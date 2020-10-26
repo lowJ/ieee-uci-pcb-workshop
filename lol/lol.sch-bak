@@ -485,7 +485,7 @@ U 1 1 5F9BFC38
 P 6850 1100
 F 0 "J2" H 6878 1076 50  0000 L CNN
 F 1 "5V_BUS" H 6878 985 50  0000 L CNN
-F 2 "Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal" H 6850 1100 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 6850 1100 50  0001 C CNN
 F 3 "~" H 6850 1100 50  0001 C CNN
 	1    6850 1100
 	1    0    0    -1  
@@ -558,4 +558,21 @@ Text GLabel 9750 3600 2    50   Input ~ 0
 COL2
 Text GLabel 9750 3700 2    50   Input ~ 0
 COL3
+NoConn ~ 9750 4000
+NoConn ~ 9750 1800
+NoConn ~ 9750 1900
+NoConn ~ 9750 2000
+NoConn ~ 9750 2100
+NoConn ~ 9750 2200
+NoConn ~ 9750 2300
+NoConn ~ 9750 2400
+NoConn ~ 9750 2500
+NoConn ~ 1850 1800
+NoConn ~ 2250 1600
+NoConn ~ 9750 2700
+NoConn ~ 9750 2800
+NoConn ~ 9750 3000
+NoConn ~ 9750 3100
+NoConn ~ 9750 3200
+NoConn ~ 9750 3300
 $EndSCHEMATC
